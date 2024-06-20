@@ -1,0 +1,16 @@
+PODS:
+  - Hello (0.1.0)
+
+DEPENDENCIES:
+  - Hello (from `../`)
+
+EXTERNAL SOURCES:
+  Hello:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Hello: 4429ddb92eaf59e6bf15efe08cc2a9618858f769
+
+PODFILE CHECKSUM: 57a63cf8c8b26704896e41ef3e238e0247463351
+
+COCOAPODS: 1.15.2
